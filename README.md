@@ -106,19 +106,19 @@ synent-task1-portfolio-ajaykumar/
 > Screenshots are in the `/screenshots` folder.
 
 **Desktop — Hero Section**
-!(screenshots/hero.png)
+![alt text](hero.png)
 
 **Desktop — Skills Section**
-!(screenshots/skills.png)
+![alt text](skills.png)
 
 **Desktop — Projects Section**
-!(screenshots/projects.png)
+![alt text](projects.png)
 
 **Desktop — Contact Section**
-!(screenshots/contact.png)
+![alt text](contact-1.png)
 
 **Mobile View**
-!(screenshots/mobile-view.png)
+![alt text](mobile-view-1.png)
 
 ---
 
