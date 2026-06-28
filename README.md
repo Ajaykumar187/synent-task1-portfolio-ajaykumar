@@ -106,19 +106,19 @@ synent-task1-portfolio-ajaykumar/
 > Screenshots are in the `/screenshots` folder.
 
 **Desktop — Hero Section**
-![alt text](hero.png)
+<img width="1881" height="907" alt="hero" src="https://github.com/user-attachments/assets/930979b9-5fac-42bc-a983-f78a8d7008fa" />
 
 **Desktop — Skills Section**
-![alt text](skills.png)
+<img width="1882" height="907" alt="skills" src="https://github.com/user-attachments/assets/c4b0dde6-ce1f-4972-8c81-4371ced65053" />
 
 **Desktop — Projects Section**
-![alt text](projects.png)
+<img width="1886" height="906" alt="projects" src="https://github.com/user-attachments/assets/108b2659-1992-4c71-b0d8-5e736c75400d" />
 
 **Desktop — Contact Section**
-![alt text](contact-1.png)
+<img width="1882" height="571" alt="contact" src="https://github.com/user-attachments/assets/9a4ab9a1-55d5-4887-a400-3cb7d66b9eff" />
 
 **Mobile View**
-![alt text](mobile-view-1.png)
+<img width="800" height="1290" alt="mobile-view" src="https://github.com/user-attachments/assets/b35a3a9e-316b-479d-b05d-acb3c6e88721" />
 
 ---
 
